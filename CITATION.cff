@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+authors:
+  - family-names: "Shivakumar"
+    given-names: "Abhishek"
+title: "ffmpeg"
+url: "https://github.com/godofecht/ffmpeg"
